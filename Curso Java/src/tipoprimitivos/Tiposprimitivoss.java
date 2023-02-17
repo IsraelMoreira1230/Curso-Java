@@ -1,6 +1,6 @@
 package tipoprimitivos;
 
-public class Tiposprimitivos {
+public class Tiposprimitivoss {
   public static void main(String[] args) {
     char sexo = 'F';
     byte idade = 45;

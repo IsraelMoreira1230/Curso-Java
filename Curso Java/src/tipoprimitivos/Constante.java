@@ -1,6 +1,6 @@
 package tipoprimitivos;
 
-public class Constantes {
+public class Constante {
   public static void main(String[] args) {
     final double ACELARACAO_DA_GRAVIDADE = 10.0;
 

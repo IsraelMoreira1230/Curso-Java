@@ -2,7 +2,7 @@ package tipoprimitivos;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class Exercicio01 {
   public class Desconto {
     public static void main(String[] args) {
       try (Scanner scan = new Scanner(System.in)) {
